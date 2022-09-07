@@ -13,6 +13,7 @@ import hh.swd20.autoprojekti.domain.Auto;
 @Controller
 public class AutoController {
 	
+	// moi
 	// http://localhost:8080/autolista, jos /autolista on endpoint
     @RequestMapping(value="/autolista", method = RequestMethod.GET)
     //@GetMapping("/autolista")
